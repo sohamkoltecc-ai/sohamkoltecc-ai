@@ -2,8 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0047AB&height=250&section=header&text=Soham%20Kolte&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-# 👋 Hi, I'm Soham Kolte
-
 <h3 align="center">
 Game Developer • Software Developer • Graphics Programming Enthusiast
 </h3>
