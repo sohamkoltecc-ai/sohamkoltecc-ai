@@ -3,129 +3,67 @@
 </p>
 
 <h3 align="center">
-Game Developer • Software Developer • Graphics Programming Enthusiast
+🎮 Game Developer • 💻 Software Developer • ⚡ Graphics Programming Enthusiast
 </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Game+Developer;Unity+Developer;Flutter+Developer;C%2B%2B+Programmer;Graphics+Programming+Enthusiast;Future+Game+Engine+Developer" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sohamkolte-ai&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-🎮 Passionate about creating immersive games and software solutions.
+🎮 Building games, software tools, and exploring graphics programming.
 
-💻 Currently focused on:
-- Game Development
-- Unity Engine
-- OpenGL
-- C++
-- Flutter
-- Computer Graphics
+📚 Currently learning:
+- OpenGL & Rendering
 - Game Engine Architecture
+- Advanced C++
+- Unity Development
 
-🌱 Always learning and building new projects.
+🎯 Goal: Build high-quality games and eventually create my own game engine.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,dart,js,html,css" />
-</p>
-
-### Game Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,blender" />
-</p>
-
-### Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,photoshop" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,cs,dart,flutter,unity,blender,firebase,git,github,vscode,visualstudio,html,css,js" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sohamkolte-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohamkolte-ai&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamkolte-ai&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamkolte-ai&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkolte-ai&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Current Goals
-
-✅ Release High Quality Games
-
-✅ Master Graphics Programming
-
-✅ Learn Advanced OpenGL
-
-✅ Build a Custom Game Engine
-
-✅ Create Professional Software Products
 
 ---
 
 ## 🚀 Featured Projects
 
-
 ### 📱 Daily Report Generator
+Track daily work, manage records, and generate professional PDF reports.
 
-- Work Tracking
-- PDF Generation
-- Productivity Focused
-- Cross Platform Support
+### 🎮 Horror Game Project
+Story-driven horror game featuring puzzles, exploration, inventory systems, and immersive gameplay.
 
-### 🏗️ Game Engine Learning Project
-
-- Rendering Pipeline
-- Terrain Systems
-- Shadow Mapping
-- Scene Management
-- Engine Architecture
+### 🏗️ Game Engine Learning
+Learning rendering pipelines, terrain systems, shadow mapping, and engine architecture.
 
 ---
 
-## 📈 Activity Graph
+## 🌐 Connect
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamkolte-ai&theme=tokyo-night"/>
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sohamkolte-ai&theme=tokyonight&column=7"/>
-
----
-
-## 🌍 Connect With Me
-
-<p>
+<p align="center">
 <a href="https://github.com/sohamkolte-ai">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
@@ -133,14 +71,6 @@ Game Developer • Software Developer • Graphics Programming Enthusiast
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=sohamkolte-ai&color=blue)
-
----
-
-## ⚡ Fun Fact
-
-I love building real-world projects to learn technologies deeply, from game development and graphics programming to software engineering.
-
-> Build • Learn • Improve • Repeat 🚀
+<p align="center">
+<b>Build • Learn • Improve • Repeat 🚀</b>
+</p>
