@@ -95,7 +95,7 @@ Focused on learning:
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sohamkolte-ai">
+  <a href="https://github.com/sohamkoltecc-ai">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
