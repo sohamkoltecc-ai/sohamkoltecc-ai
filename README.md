@@ -85,20 +85,11 @@ Focused on learning:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohamkoltecc-ai" alt="sohamkoltecc-ai" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamkoltecc-ai&show_icons=true&locale=en&layout=compact" alt="sohamkoltecc-ai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamkoltecc-ai&show_icons=true&locale=en" alt="sohamkoltecc-ai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkoltecc-ai&" alt="sohamkoltecc-ai" /></p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohamkoltecc-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="sohamkoltecc-ai" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkoltecc-ai&theme=tokyonight" alt="sohamkoltecc-ai" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamkoltecc-ai&layout=compact&theme=tokyonight&hide_border=true" alt="sohamkoltecc-ai" />
-</p>
 
 ---
 
