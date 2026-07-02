@@ -10,9 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Game+Developer;Unity+Developer;Flutter+Developer;C%2B%2B+Programmer;Graphics+Programming+Enthusiast;Future+Game+Engine+Developer" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohamkoltecc-ai&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
