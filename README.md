@@ -81,7 +81,6 @@ Focused on learning:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamkoltecc-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="sohamkoltecc-ai" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkoltecc-ai&theme=tokyonight" alt="sohamkoltecc-ai" />
 </p>
 
