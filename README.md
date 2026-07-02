@@ -49,8 +49,6 @@
 
 ---
 
-[[https://YOUR-NEW-VERCEL-DOMAIN.vercel.app/?username=sohamkoltecc-ai](https://YOUR-NEW-VERCEL-DOMAIN.vercel.app/?username=sohamkoltecc-ai)
-](https://github-profile-trophy-gilt-nine.vercel.app/?username=sohamkoltecc-ai)
 
 
 
