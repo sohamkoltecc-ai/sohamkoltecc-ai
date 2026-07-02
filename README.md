@@ -49,9 +49,8 @@
 
 ---
 
-# Badge
 
-https://img.shields.io/badge/Trophies-Check_my_profile-blue?style=for-the-badge&logo=github](https://img.shields.io/badge/Trophies-Check_my_profile-blue?style=for-the-badge&logo=github
+
 
 
 
