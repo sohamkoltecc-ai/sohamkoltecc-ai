@@ -49,7 +49,7 @@
 
 ---
 
-https://github-profile-trophy.vercel.app/?username=sohamkoltecc-ai&title=Stars,Followers](https://github-profile-trophy.vercel.app/?username=sohamkoltecc-ai&title=Stars,Followers
+
 
 
 # 🚀 Featured Projects
