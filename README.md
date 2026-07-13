@@ -43,8 +43,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkoltecc-ai&theme=tokyonight" alt="sohamkoltecc-ai" />
-  <br><br><br>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamkolteccai&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
