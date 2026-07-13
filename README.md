@@ -1,4 +1,3 @@
-<img width="100%" height="1080" alt="Discord Banner Gif Maker" src="https://github.com/user-attachments/assets/6f027efe-92c6-417e-b592-7746a738de0c" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0047AB&height=250&section=header&text=Soham%20Kolte&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
