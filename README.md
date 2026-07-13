@@ -1,3 +1,7 @@
+
+<img width="100%" height="1080" alt="wmremove-transformed" src="https://github.com/user-attachments/assets/8f9d5f08-e9f3-4322-9f2b-9bce96c13eba" />
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0047AB&height=250&section=header&text=Soham%20Kolte&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
