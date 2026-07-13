@@ -82,6 +82,10 @@ Focused on learning:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohamkoltecc-ai&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/sohamkoltecc-ai/sohamkoltecc-ai/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 ---
 
 
